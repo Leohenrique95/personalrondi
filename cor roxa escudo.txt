@@ -1,0 +1,3 @@
+Vermelho: 84
+Verde: 32
+Azul: 132
